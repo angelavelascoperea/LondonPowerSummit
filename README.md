@@ -13,9 +13,15 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 ![2](https://github.com/user-attachments/assets/b0a1c437-93ef-43d5-b2b3-918a6c736699)
 
-  3. Add a new table to the HR solution
+  3. Create a new table to the HR solution
 
 ![3](https://github.com/user-attachments/assets/1d594ad4-5025-4ef5-a389-8efe2717be8e)
+
+  4. Import Employees excel file
+
+![4](https://github.com/user-attachments/assets/525aa811-d1ee-4528-bdc3-91899fb0d628)
+![4-1](https://github.com/user-attachments/assets/4152b714-4cc4-41fc-a372-3fff17644eec)
+
 
 
 Add a new agent
