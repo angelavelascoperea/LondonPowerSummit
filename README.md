@@ -39,6 +39,12 @@ This is a repository that stores Excel tables, and a step by step guide to creat
      
 ![7](https://github.com/user-attachments/assets/fc169b25-a41c-4020-aa0e-0ae3c58288e1)
 
+  8. Change the name of the agent and add a description if you want to, and select 'Add knowledge'
+
+![8](https://github.com/user-attachments/assets/b0a943c7-c125-4b68-afa5-9b48efaebb04)
+
+![8-1](https://github.com/user-attachments/assets/d2366207-3ea7-4b22-8cb3-98fc12b418aa)
+
 
 
     
