@@ -43,7 +43,8 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 ![8](https://github.com/user-attachments/assets/b0a943c7-c125-4b68-afa5-9b48efaebb04)
 
-![8-1](https://github.com/user-attachments/assets/d2366207-3ea7-4b22-8cb3-98fc12b418aa)
+![8-1](https://github.com/user-attachments/assets/8b3a6611-d4a4-48d5-a448-23639803a684)
+
 
 
 
