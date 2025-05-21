@@ -1,5 +1,5 @@
 
-LondonPowerSummit
+London Power Summit
 
 # LAB: HOW TO CREATE A HUMAN RESOURCES AGENT IN COPILOT STUDIO STEP BY STEP
 
