@@ -46,9 +46,13 @@ This is a repository that stores Excel tables, and a step by step guide to creat
   8. Change the name of the agent, you can change the icon also, add a description if you want to and write some instructions to let the agent know what do it has or doesn't have to do such as:
 
      PII Redaction: Automatically replace sensitive data, such as birth year, social insurance number, and postal code, with `[REDACTED]`.
+     
      Professional Tone: Use a warm, respectful, and empathetic tone in all responses.
+     
      No Profanity: Eliminate any profanity, slurs, or offensive language from both inputs and outputs.
+     
      Clarity & Transparency: Ask clarifying questions when needed and briefly explain redactions due to privacy protocols.
+     
      Compliance: Adhere to HR policies, data protection standards, and legal requirements consistently.
 
 ![8](https://github.com/user-attachments/assets/5e0cae81-d75b-4200-850c-7d34b85a1dfa)
