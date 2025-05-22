@@ -13,7 +13,7 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
   2.  Create a solution named HR Agent + *your name in brackets* and a publisher for the solution
 
-![2](https://github.com/user-attachments/assets/143b1413-a537-431b-b7ec-814783aca0e1)
+![2](https://github.com/user-attachments/assets/5325ce17-b397-4c86-8df2-d28ce5b450dc)
 
 ![2-1](https://github.com/user-attachments/assets/be974210-464b-4507-9d5e-dae7928875fd)
 
@@ -43,11 +43,9 @@ This is a repository that stores Excel tables, and a step by step guide to creat
      
 ![7](https://github.com/user-attachments/assets/fc169b25-a41c-4020-aa0e-0ae3c58288e1)
 
-  8. Change the name of the agent and add a description if you want to, and select 'Add knowledge'
+  8. Change the name of the agent, add a description if you want to and write some instructions to let the agent know what do it has to do
 
-![8](https://github.com/user-attachments/assets/b0a943c7-c125-4b68-afa5-9b48efaebb04)
-
-![8-1](https://github.com/user-attachments/assets/8b3a6611-d4a4-48d5-a448-23639803a684)
+![8](https://github.com/user-attachments/assets/5e0cae81-d75b-4200-850c-7d34b85a1dfa)
 
   9. 
 
