@@ -11,9 +11,11 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 ![1-1](https://github.com/user-attachments/assets/31431ec0-fd95-450f-a881-9cd8cad2faa6)
 
-  2.  Create a solution named HR Agent + *your name in brackets* and a publisher for the solution
+  2.  Create a solution named HR Agent + *your name in brackets* and a publisher for the solution with your own parameters
 
 ![2](https://github.com/user-attachments/assets/5325ce17-b397-4c86-8df2-d28ce5b450dc)
+
+Write your name on the Display name, Name and Prefix
 
 ![2-1](https://github.com/user-attachments/assets/be974210-464b-4507-9d5e-dae7928875fd)
 
