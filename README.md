@@ -9,7 +9,7 @@ This is a repository that stores Excel tables, and a step by step guide to creat
     
 ![1](https://github.com/user-attachments/assets/e33f01ad-f0b1-4e5f-ae41-8f52293ea622)
 
-  2.  Create a solution named HR Agent
+  2.  Create a solution named HR Agent and a publisher for the solution
 
 ![2](https://github.com/user-attachments/assets/b0a1c437-93ef-43d5-b2b3-918a6c736699)
 
@@ -45,6 +45,7 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 ![8-1](https://github.com/user-attachments/assets/8b3a6611-d4a4-48d5-a448-23639803a684)
 
+  9. 
 
 
 
