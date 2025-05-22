@@ -55,7 +55,8 @@ This is a repository that stores Excel tables, and a step by step guide to creat
      
      Compliance: Adhere to HR policies, data protection standards, and legal requirements consistently.
 
-![8](https://github.com/user-attachments/assets/5e0cae81-d75b-4200-850c-7d34b85a1dfa)
+![8](https://github.com/user-attachments/assets/0e105fb7-43ba-4f06-84dc-c955f3eb3a04)
+
 
   9. 
 
