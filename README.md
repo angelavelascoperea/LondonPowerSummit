@@ -17,7 +17,8 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 Write your name on the Display name, Name and Prefix
 
-![2-1](https://github.com/user-attachments/assets/be974210-464b-4507-9d5e-dae7928875fd)
+![2-1](https://github.com/user-attachments/assets/9c2a77b5-36b5-439f-96d6-a1bbac351805)
+
 
   3. Create a new table in the HR solution
 
