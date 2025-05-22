@@ -44,6 +44,7 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 ![7](https://github.com/user-attachments/assets/fc169b25-a41c-4020-aa0e-0ae3c58288e1)
 
   8. Change the name of the agent, you can change the icon also, add a description if you want to and write some instructions to let the agent know what do it has or doesn't have to do such as:
+
      PII Redaction: Automatically replace sensitive data, such as birth year, social insurance number, and postal code, with `[REDACTED]`.
      Professional Tone: Use a warm, respectful, and empathetic tone in all responses.
      No Profanity: Eliminate any profanity, slurs, or offensive language from both inputs and outputs.
