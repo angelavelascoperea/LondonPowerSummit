@@ -5,9 +5,11 @@ London Power Summit
 
 This is a repository that stores Excel tables, and a step by step guide to create a Human Resources Agent with Copilot Studio.
 
-  1. Sign in [Power Apps](https://make.powerapps.com/) with your user and password and choose the Power Summit environment
+  1. Sign in [Power Apps](https://make.powerapps.com/) with your user and password
     
 ![1](https://github.com/user-attachments/assets/e33f01ad-f0b1-4e5f-ae41-8f52293ea622)
+
+  1.1. Choose the Power Summit environment
 
 ![1-1](https://github.com/user-attachments/assets/31431ec0-fd95-450f-a881-9cd8cad2faa6)
 
@@ -15,26 +17,50 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 ![2](https://github.com/user-attachments/assets/5325ce17-b397-4c86-8df2-d28ce5b450dc)
 
-Write your name on the Display name, Name and Prefix
+  2.1. Write your name on the Display name, Name and Prefix
 
 ![2-1](https://github.com/user-attachments/assets/9c2a77b5-36b5-439f-96d6-a1bbac351805)
-
 
   3. Create a new table in the HR solution
 
 ![3](https://github.com/user-attachments/assets/1d594ad4-5025-4ef5-a389-8efe2717be8e)
 
-  4. Import Employees excel file
+  4. Import Employees excel file 
 
 ![4](https://github.com/user-attachments/assets/525aa811-d1ee-4528-bdc3-91899fb0d628)
 
 ![4-1](https://github.com/user-attachments/assets/f123dcde-a678-42ba-9b2d-9355d984cc3e)
 
-![4-2](https://github.com/user-attachments/assets/60ec6205-3072-45f1-b733-f672b0945b40)
+![4-2](https://github.com/user-attachments/assets/3bbe19f1-3ef1-4dd6-a5d4-923534938ce4)
 
-![4-3](https://github.com/user-attachments/assets/6ce1fac5-f376-425f-9ae9-ff4a596803b7)
+  4.1. And then, do the same steps to import the Projects excel file
 
-  5. Repeat step 4 importing Projects excel file and Holiday request excel file until you get all the tables ready in the solution
+
+  5. Create a new table with the advanced properties called Holiday requests
+
+![5](https://github.com/user-attachments/assets/64aaa75b-be9b-4f12-9ded-3f940fe0297a)
+
+![5-1](https://github.com/user-attachments/assets/52349919-8983-4ddc-b433-310bd82c85cc)
+
+Once created, we will add:
+
+- 2 date columns (start date and end date)
+
+- 2 text columns (reason and comments)
+
+- 1 number column (Days count)
+
+- 1 choice column (Status)
+
+- 1 lookup column (Employee)
+
+![5-2](https://github.com/user-attachments/assets/8c0ea40c-2a11-4e99-b0d0-a0f17112f748)
+
+
+
+
+     
+     Repeat step 4 importing Projects excel file and Holiday request excel file until you get all the tables ready in the solution
 
 ![5](https://github.com/user-attachments/assets/115f6a90-4d1b-425e-a73d-f4d6f78cefb4)
 
