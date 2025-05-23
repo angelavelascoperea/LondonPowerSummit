@@ -113,6 +113,30 @@ We have to look for our tables (with our name on it) and add teh 3 of them at th
 
 ![9 - 3](https://github.com/user-attachments/assets/2a556b7e-b590-4d4f-acf1-e5b6f48dc712)
 
+  10. Test the agent asking some questions about employees or projects to see if it works
 
+  11. Now, we are going to create some flows
 
+![11](https://github.com/user-attachments/assets/613dcc54-f31a-44d8-aa30-8f213c62fa9a)
+
+![11 - 1](https://github.com/user-attachments/assets/39d45869-ded3-44a8-9ea2-5b0faf186b55)
+
+  12. The first flow is to create a holiday request
+
+![12](https://github.com/user-attachments/assets/cd0907ac-bb82-4bbd-bb7b-5a02cb24e365)
+
+And once is done, we are going to edit it and follow the steps:
+
+![12 - 1](https://github.com/user-attachments/assets/9099b508-a2f5-49fa-8354-e65b9fa3a704)
+
+![12 - 2](https://github.com/user-attachments/assets/64732e4a-2ea0-4570-a223-e53e91747796)
+
+![12 - 3](https://github.com/user-attachments/assets/dfa482e6-a4b4-40d5-8e3d-29ebc4e2910e)
+
+![12 - 4](https://github.com/user-attachments/assets/b27b8d9a-b17a-4380-87cd-e823fd3cecdd)
+
+![12 - 5](https://github.com/user-attachments/assets/9592b485-7a74-4ab3-8a6b-1c33f4d89d2a)
+
+first(body('List_rows_|_Get_Employee_id')?['value'])?['ldn_employeesid']
+![12 - 6](https://github.com/user-attachments/assets/2ef6d0d4-7360-4642-b46d-cfa2f652a5c7)
 
