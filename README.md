@@ -33,16 +33,17 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 ![4-2](https://github.com/user-attachments/assets/3bbe19f1-3ef1-4dd6-a5d4-923534938ce4)
 
-  4.1. And then, do the same steps to import the Projects excel file
+  4.1. And then, do the same steps to import the Projects excel file until you get both
 
+![4-3](https://github.com/user-attachments/assets/35cd4c34-f567-4d2a-9412-f8baa95c0692)
 
   5. Create a new table with the advanced properties called Holiday requests
 
-![5](https://github.com/user-attachments/assets/64aaa75b-be9b-4f12-9ded-3f940fe0297a)
+![5](https://github.com/user-attachments/assets/482a7875-72d4-4ed7-8629-0bac8828376d)
 
 ![5-1](https://github.com/user-attachments/assets/52349919-8983-4ddc-b433-310bd82c85cc)
 
-Once created, we will add:
+  5.1. Once created, we will add:
 
 - 2 date columns (start date and end date)
 
@@ -56,11 +57,21 @@ Once created, we will add:
 
 ![5-2](https://github.com/user-attachments/assets/8c0ea40c-2a11-4e99-b0d0-a0f17112f748)
 
+following this steps:
+
+- Write the display name
+
+- select the data type
+
+- select some other options if needed
+
+![5 - 3](https://github.com/user-attachments/assets/aaff61e9-3101-40fb-a360-a93886e59699)
+
+![5 - 4](https://github.com/user-attachments/assets/dd020ba1-b0cb-4406-ba17-7203afca4b62)
+
+![5 - 5](https://github.com/user-attachments/assets/376e396f-dc04-4054-8000-ff2adb6007c7)
 
 
-
-     
-     Repeat step 4 importing Projects excel file and Holiday request excel file until you get all the tables ready in the solution
 
 ![5](https://github.com/user-attachments/assets/115f6a90-4d1b-425e-a73d-f4d6f78cefb4)
 
