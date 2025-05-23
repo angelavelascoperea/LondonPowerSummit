@@ -25,7 +25,9 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 
 ![3](https://github.com/user-attachments/assets/1d594ad4-5025-4ef5-a389-8efe2717be8e)
 
-  4. Import Employees excel file 
+  4. Import Employees excel file
+
+Download it here:https://github.com/angelavelascoperea/LondonPowerSummit/blob/main/London%20Power%20Summit/Employees.xlsx
 
 ![4](https://github.com/user-attachments/assets/525aa811-d1ee-4528-bdc3-91899fb0d628)
 
@@ -34,6 +36,8 @@ This is a repository that stores Excel tables, and a step by step guide to creat
 ![4-2](https://github.com/user-attachments/assets/3bbe19f1-3ef1-4dd6-a5d4-923534938ce4)
 
   4.1. And then, do the same steps to import the Projects excel file until you get both
+
+Download it here: https://github.com/angelavelascoperea/LondonPowerSummit/blob/main/London%20Power%20Summit/Projects.xlsx
 
 ![4-3](https://github.com/user-attachments/assets/35cd4c34-f567-4d2a-9412-f8baa95c0692)
 
@@ -102,6 +106,8 @@ And now, we have our three tables ready
 ![9](https://github.com/user-attachments/assets/7cde7cb4-5b75-43fb-b6fa-ef0b098ebde9)
 
 The first one will be a non real Company policies document 
+
+Download the document here: https://github.com/angelavelascoperea/LondonPowerSummit/blob/main/London%20Power%20Summit/Contoso%20Company%20Policies.pdf
 
 ![9 - 1](https://github.com/user-attachments/assets/3cf86495-d6d5-4746-b0bd-e6be4b1ceea9)
 
