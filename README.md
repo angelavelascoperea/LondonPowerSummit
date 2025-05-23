@@ -71,7 +71,7 @@ following this steps:
 
 ![5 - 5](https://github.com/user-attachments/assets/376e396f-dc04-4054-8000-ff2adb6007c7)
 
-
+And now, we have our three tables ready
 
 ![5](https://github.com/user-attachments/assets/115f6a90-4d1b-425e-a73d-f4d6f78cefb4)
 
@@ -97,14 +97,22 @@ following this steps:
 
 ![8](https://github.com/user-attachments/assets/6fb0c12e-2452-4534-8957-c632f9c3c55c)
 
+  9. Once created, we are going to add some knowledge sources to our agent
 
+![9](https://github.com/user-attachments/assets/7cde7cb4-5b75-43fb-b6fa-ef0b098ebde9)
 
+The first one will be a non real Company policies document 
 
-  9. 
+![9 - 1](https://github.com/user-attachments/assets/3cf86495-d6d5-4746-b0bd-e6be4b1ceea9)
 
+And the second knowledge source will be Dataverse
 
+![9 - 2](https://github.com/user-attachments/assets/a4f6c468-befb-435f-aa49-815b2832f9d6)
 
-    
+We have to look for our tables (with our name on it) and add teh 3 of them at the same time
+
+![9 - 3](https://github.com/user-attachments/assets/2a556b7e-b590-4d4f-acf1-e5b6f48dc712)
+
 
 
 
