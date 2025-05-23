@@ -140,3 +140,25 @@ And once is done, we are going to edit it and follow the steps:
 first(body('List_rows_|_Get_Employee_id')?['value'])?['ldn_employeesid']
 ![12 - 6](https://github.com/user-attachments/assets/2ef6d0d4-7360-4642-b46d-cfa2f652a5c7)
 
+![12 - 7](https://github.com/user-attachments/assets/9adaf2ff-0bc5-434f-9612-fbe980c0d5d9)
+
+![12 - 8](https://github.com/user-attachments/assets/e3c30933-1d1b-4f33-a5e6-81ff8023fd68)
+
+![12 - 9](https://github.com/user-attachments/assets/5556d3c7-da22-41a5-8b73-e762ce4af1a3)
+
+![12 - 10](https://github.com/user-attachments/assets/b118dcc4-edea-4818-907a-9e60a90e8ab6)
+
+first(outputs('List_rows_|_Get_Employee_id')?['body/value'])?['ldn_daysoff']
+![12 - 11](https://github.com/user-attachments/assets/5a7cecc6-7b54-4d18-a4c6-4cfdcd493ebf)
+
+![12 - 12](https://github.com/user-attachments/assets/41c20f01-a825-4a21-b18d-2be2392f70ca)
+
+![12 - 13](https://github.com/user-attachments/assets/b66ae653-3f25-40ac-8e9b-de81ef805f26)
+
+![12 - 14](https://github.com/user-attachments/assets/e16d9e0e-4daf-43d2-ad8f-cdb2811cde7d)
+
+  13. Test the flow saying to the agent that you want to go on holiday and check if it works
+
+  14. The second flow is to get our previous holiday requests
+
+![14](https://github.com/user-attachments/assets/93398cd0-65f3-4b3c-8579-3513e3a89273)
