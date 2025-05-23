@@ -123,11 +123,14 @@ We have to look for our tables (with our name on it) and add teh 3 of them at th
 
   12. The first flow is to create a holiday request
 
+Post a new holiday request with some information like the reason, start date, end date, comments, and the name of the employee
 ![12](https://github.com/user-attachments/assets/cd0907ac-bb82-4bbd-bb7b-5a02cb24e365)
 
 And once is done, we are going to edit it and follow the steps:
 
 ![12 - 1](https://github.com/user-attachments/assets/9099b508-a2f5-49fa-8354-e65b9fa3a704)
+
+![image](https://github.com/user-attachments/assets/3cd8bbed-45c9-4337-a170-85d7c4673a74)
 
 ![12 - 2](https://github.com/user-attachments/assets/64732e4a-2ea0-4570-a223-e53e91747796)
 
@@ -161,4 +164,52 @@ first(outputs('List_rows_|_Get_Employee_id')?['body/value'])?['ldn_daysoff']
 
   14. The second flow is to get our previous holiday requests
 
+  14.1. Repeat the 11th step
+  
+Power Automate flow that is triggered when someone asks the agent about an employee's vacation and returns a list with the reports of that employee's days off requests.
+In the response to the user, add a final phrase indicating how many Holidays Days are available, take from the "EmployeeAvailableHolidaysDays" response item.  
+Add also the total Days Off that the employee has available in one year period, take it from "EmployeeTotalDaysOff" response item.
 ![14](https://github.com/user-attachments/assets/93398cd0-65f3-4b3c-8579-3513e3a89273)
+
+And once is done, we are going to edit it and follow the steps:
+
+![14 - 1](https://github.com/user-attachments/assets/7767ac1c-983f-4c5d-8080-f4cbe1408156)
+
+![14 - 2](https://github.com/user-attachments/assets/b4eb8f77-4dd1-4dd1-b82e-f334c63bde48)
+
+![14 - 3](https://github.com/user-attachments/assets/62f3a39f-0f35-44ed-a628-b3fa0fac01cf)
+
+![14 - 4](https://github.com/user-attachments/assets/29a6977a-1c86-4f92-a263-0c3b60218c58)
+
+![14 - 5](https://github.com/user-attachments/assets/012b6b06-88b5-4c43-84b5-df28dc2ad1fd)
+
+![14 - 6](https://github.com/user-attachments/assets/f73c7895-7518-4c94-97db-05e875c5218d)
+
+first(outputs('List_rows_|_Get_employee_id')?['body/value'])?['ldn_employeesid']
+![14 - 7](https://github.com/user-attachments/assets/898f5ffd-91ed-438d-ace4-7e0742e09161)
+
+![14 - 8](https://github.com/user-attachments/assets/1c4d7a16-0b44-4624-b954-ca6f72bb8694)
+
+![14 - 9](https://github.com/user-attachments/assets/09df04fa-1e1f-4b18-b3e4-cb02b84592ee)
+
+![14 - 10](https://github.com/user-attachments/assets/0d18a78d-6fe4-4ea5-aec2-b975d2cdbe5b)
+
+![14 - 11](https://github.com/user-attachments/assets/f1faf1a6-6e8a-4592-a046-f876ba7ad308)
+
+![14 - 12](https://github.com/user-attachments/assets/9246ef1b-8176-4303-90ea-67c49a90d84d)
+
+xpath(xml(outputs('Compose_|_Days_Count_JSON')), 'sum(/root/Numbers)')
+![14 - 13](https://github.com/user-attachments/assets/cc700c9e-6187-439d-bcd1-2b2aa8c4174f)
+
+![14 - 14](https://github.com/user-attachments/assets/44101493-927a-4dbb-b038-2fa38d6b890c)
+
+first(outputs('List_rows_|_Get_employee_id')?['body/value'])?['ldn_daysoff']
+![14 - 15](https://github.com/user-attachments/assets/72aad4bd-9f66-4930-b4b6-51230da54e36)
+
+![14 - 16](https://github.com/user-attachments/assets/f27f8cf0-02e0-401d-b177-79f07c24f4ea)
+
+sub(outputs('Compose_|_Employee_Days_Off'), outputs('Compose_|_Days_Count_Sum'))
+![14 - 17](https://github.com/user-attachments/assets/cdafbdee-5bb9-4fc7-8e13-93904643d393)
+
+15. Test the flow saying to the agent to show you someone's holiday request (rememer that this data has to be stored in holiday requests)
+
